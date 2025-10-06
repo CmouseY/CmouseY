@@ -6,11 +6,20 @@ as pitch, loudness, spectral flux, and chroma. You can run it interactively with
 no prior experience or automate it with command line flags when you are ready.
 
 > **Need to download the ready-to-run files?**
-> * [`audio_to_csv.py`](https://raw.githubusercontent.com/CmouseY/CmouseY/main/AudioCSV/audio_to_csv.py)
-> * [`run_audio_to_csv.bat`](https://raw.githubusercontent.com/CmouseY/CmouseY/main/AudioCSV/run_audio_to_csv.bat)
 >
-> Save both files inside the same folder (for example `AudioCSV/`) and follow the
-> quick-start steps below.
+> 1. Create a new folder on your computer (for example `AudioCSV`).
+> 2. Right-click each link below and choose **“Save link as…”**. Place both files
+>    inside the folder you created in step 1.
+>    * [`audio_to_csv.py`](https://raw.githubusercontent.com/CmouseY/CmouseY/main/AudioCSV/audio_to_csv.py)
+>    * [`run_audio_to_csv.bat`](https://raw.githubusercontent.com/CmouseY/CmouseY/main/AudioCSV/run_audio_to_csv.bat)
+> 3. Double-click `run_audio_to_csv.bat` to launch the guided mode (details in
+>    section 2 below).
+>
+> **Alternative – download everything at once:** on the GitHub page, click the
+> green **Code** button → **Download ZIP**, then unzip and open the `AudioCSV`
+> folder.
+>
+> Continue with the quick-start steps below once the files are in place.
 
 ---
 
